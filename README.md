@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JGW3/JGW3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John West—a software developer and U.S. Army infantry veteran, building practical solutions through clean code and effective teamwork.
 
-Here are some ideas to get you started:
+🔭 Currently working on: Robotics, databases, and web development projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Advanced Python, cloud computing, and software best practices.
+
+👯 Looking to collaborate on: Open-source projects and practical development opportunities.
+
+💬 Ask me about: My experience transitioning from military leadership to software development, or any technical topic listed here.
+
+📫 How to reach me: john.g.westiii@gmail.com
+
+⚡ Fun fact: I've led infantry teams under fire—now I apply that same steady leadership to software projects.
+
