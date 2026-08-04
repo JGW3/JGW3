@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm John West—a controls and electronics technologist and U.S. Army veteran. I hold a B.S. in Computing Science and am completing a B.S. in Electronics and Computer Engineering Technology at Sam Houston State University, pairing hands-on hardware and controls work with a strong programming background.
+I'm John West, a controls and electronics technologist and U.S. Army veteran. I hold a B.S. in Computing Science and am completing a B.S. in Electronics and Computer Engineering Technology at Sam Houston State University, pairing hands-on hardware and controls work with a strong programming background.
 
 🔭 **Currently working on:** PLC and building automation projects with OpenPLC and STM32  
 🌱 **Currently learning:** Control systems, industrial automation, and building automation systems (BAS)  
