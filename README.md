@@ -7,7 +7,7 @@ I'm John West, a controls and electronics technologist and U.S. Army veteran. I 
 💬 **Ask me about:** Bridging hardware and software, and moving from military leadership to engineering technology  
 📫 **How to reach me:** john.g.westiii@gmail.com  
 🌐 **Portfolio:** [jgw3.github.io](https://jgw3.github.io/)  
-⚡ **Fun fact:** I led soldiers in combat, and I bring that same composure to controls and code  
+⚡ **Fun fact:** I ran a marathon once.... and only once.   
 
 ### Featured Projects
 Check out my pinned repositories below for examples of my work in controls, automation, and embedded systems.
